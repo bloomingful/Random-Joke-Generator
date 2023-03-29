@@ -1,1 +1,3 @@
-A random joke generator created using React.
+# Random Joke Generator
+
+This project was created using React.
